@@ -6,8 +6,7 @@ import java.text.SimpleDateFormat
 import java.util.Locale
 
 class AreaManga : MangaThemesia(
-    "أريا مانجا",
-    "https://www.areascans.net",
+    "أريا مانجا",https://aresnov.org/",
     "ar",
     dateFormat = SimpleDateFormat("MMMM dd, yyyy", Locale("ar")),
 ) {
